@@ -16,7 +16,12 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
    Open your terminal and run the following command to SSH into the server:
 
    ```bash
-   ssh bandit0@bandit.labs.overthewire.org -p 2220
+   ssh bandit0@bandit.labs.overthewire.org -p 2220 Images/Screenshot (2).png
    
 Password: bandit0
-![Bandit Level 0 Screenshot](https://imgur.com/a/85o7FU1)
+![Bandit Level 0 Screenshot](https://imgur.com/a/85o7FU1) 
+git add Images/Screenshot (2).png
+git commit -m "Added screenshot for Bandit Level 0"
+git push origin main
+
+
