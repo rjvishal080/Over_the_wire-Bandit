@@ -17,3 +17,5 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
 
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220
+   
+Password: bandit0
