@@ -3,18 +3,17 @@ Over the Wire : Bandit Level 0 - 20 Write up
 
 This repository contains my write-up for the Bandit CTF (Capture The Flag) challenge series. Each markdown file covers one level, with explanations, commands, and methods used to solve the challenges.
 
-## Levels Overview
+# Bandit Level 0 -> Level 1
 
-- **Level 0 to 20**: Each file contains an explanation of the corresponding level, including the method I used to find the solution and the steps I took to complete the challenge.
+## Challenge
 
-Feel free to explore the files and use them as a reference for your own progress in the Bandit series!
+The goal of this level is to log into the Bandit game using SSH. The host to connect to is `bandit.labs.overthewire.org` on port `2220`. The username is `bandit0`, and the password is `bandit0`.
 
-## Requirements
+### Steps to Complete
 
-Make sure you have access to the OverTheWire Bandit server. You can find instructions on how to start the Bandit game [here](https://overthewire.org/wargames/bandit/).
+1. **Connect to the Bandit server using SSH**:
 
-## How to Use
+   Open your terminal and run the following command to SSH into the server:
 
-1. Clone this repository to your local machine.
-2. Read each level's markdown file to understand the challenge and the solution.
-3. Practice and solve each level on the OverTheWire Bandit server: [OverTheWire Bandit](https://overthewire.org/wargames/bandit/).
+   ```bash
+   ssh bandit0@bandit.labs.overthewire.org -p 2220
