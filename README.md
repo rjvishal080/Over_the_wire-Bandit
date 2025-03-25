@@ -19,3 +19,4 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
    ssh bandit0@bandit.labs.overthewire.org -p 2220
    
 Password: bandit0
+![Bandit Level 0 Screenshot](https://imgur.com/a/85o7FU1)
