@@ -15,7 +15,7 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
 
 
    Open your terminal and run the following command to SSH into the server:
-   ![image](https://user-images.githubusercontent.com/84661482/132092828-c917b13e-0df0-4052-b7a7-a7a9d7162d8f.png)
+   ![image]([https://user-images.githubusercontent.com/84661482/132092828-c917b13e-0df0-4052-b7a7-a7a9d7162d8f.png](https://github.com/rjvishal080/Over_the_wire-Bandit/blob/main/Images/Screenshot%20(2).png))
 
 
    ```bash
