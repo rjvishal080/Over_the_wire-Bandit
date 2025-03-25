@@ -13,15 +13,15 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
 
 1. **Connect to the Bandit server using SSH**:
 
+
    Open your terminal and run the following command to SSH into the server:
+   ![image](https://user-images.githubusercontent.com/84661482/132092828-c917b13e-0df0-4052-b7a7-a7a9d7162d8f.png)
+
 
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220 Images/Screenshot (2).png
    
 Password: bandit0
-![Bandit Level 0 Screenshot](https://imgur.com/a/85o7FU1) 
-git add Images/Screenshot (2).png
-git commit -m "Added screenshot for Bandit Level 0"
-git push origin main
+
 
 
