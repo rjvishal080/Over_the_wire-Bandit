@@ -20,9 +20,20 @@ The goal of this level is to log into the Bandit game using SSH. The host to con
 
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220 Images/Screenshot (2).png
-![image](https://github.com/rjvishal080/Over_the_wire-Bandit/blob/main/Images/Screenshot%20(2).png?raw=true
-   ))
+   
 Password: bandit0
+# OverTheWire: Bandit Level 0-1 Solution
+
+## Problem Description:
+In this level, your task is to find the password for the **Bandit1** account. The password for the next level is stored in a file called `readme` located in the home directory of **Bandit0**.
+
+## Solution:
+
+1. **SSH into Bandit0**:
+   First, log in to the server with the following SSH command:
+
+   ```bash
+   ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 
 
