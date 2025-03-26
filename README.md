@@ -37,6 +37,19 @@ In this level, your task is to find the password for the **Bandit1** account. Th
    ls
    cat readme
 Password : 
+## Bandit Level 1-2 Solution
+
+## Problem Description:
+In this level, your task is to find the password for **Bandit2**. The password is stored in a file in the home directory, but the file's name starts with a hyphen (`-`).
+
+## Solution:
+
+1. **SSH into Bandit1**:
+   First, log in to the **Bandit1** account:
+
+   ```bash
+   ssh bandit1@bandit.labs.overthewire.org -p 2220
+
 
 
 
